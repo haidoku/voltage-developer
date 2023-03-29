@@ -2,7 +2,7 @@
 <h1>Hello 👋, I'm voltage!</h1>
 </div>
 
-[![Visitors](https://komarev.com/ghpvc/?username=&color=bf6bff)](https://camo.githubusercontent.com/23008fbc68b65452ac06f27a64b85ca47537c19c718488d38cc75e7856638ece/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d63686161726c6f747474652669636f6e3d3726636f6c6f723d36)
+![Visitors](https://komarev.com/ghpvc/?username=chaarlottte&color=0384fc)
 
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
