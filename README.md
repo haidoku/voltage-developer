@@ -2,7 +2,7 @@
 <h1>Hello 👋, I'm voltage!</h1>
 </div>
 
-![Visitors](https://komarev.com/ghpvc/?username=liammmdeveloper&color=0384fc)
+![Visitors](https://komarev.com/ghpvc/?username=voltage-developer&color=0384fc)
 
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
