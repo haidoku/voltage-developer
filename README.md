@@ -2,7 +2,7 @@
 <h1>Hello 👋, I'm voltage!</h1>
 </div>
 
-![Visitors](https://kounter.tk/Visitors/kerolloz.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=true)
+![badge](https://kounter.tk/badge/kerolloz.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=true)
 
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
