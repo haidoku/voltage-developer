@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hello 👋, I'm voltage!</h1>
 
-    ![](https://komarev.com/ghpvc/?username=voltage-developer&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=voltage-developer&label=PROFILE+VIEWS)
 
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
