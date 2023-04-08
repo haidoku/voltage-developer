@@ -1,5 +1,5 @@
-<div align="center">
 <h1>Hello 👋, I'm voltage!</h1>
+
 
 ![](https://komarev.com/ghpvc/?username=voltage-developer&style=for-the-badge&color=af9cff)
 
