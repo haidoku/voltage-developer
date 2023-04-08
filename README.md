@@ -2,7 +2,11 @@
 <h1>Hello 👋, I'm voltage!</h1>
 </div>
 
-![badge](https://kounter.tk/badge/kerolloz.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=true)
+<a href="https://github.com/Gowixx">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
+  </p>
+</a>
 
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
