@@ -1,8 +1,9 @@
 <h1>Hello 👋, I'm voltage!</h1>
 
-
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=voltage-developer&style=for-the-badge&color=af9cff)
-
+<div align="center">
+  
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
 - Backend development and engineering
