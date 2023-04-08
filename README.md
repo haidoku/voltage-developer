@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Gowixx">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=voltage-developer" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=voltage-developer"&style=for-the-badge alt="Profile Views">
   </p>
 </a>
 
