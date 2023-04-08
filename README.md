@@ -1,12 +1,10 @@
 <div align="center">
 <h1>Hello 👋, I'm voltage!</h1>
-</div>
 
-<a href="https://github.com/Gowixx">
+  
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=voltage-developer"&style=for-the-badge alt="Profile Views">
+    ![](https://komarev.com/ghpvc/?username=joke&label=PROFILE+VIEWS)
   </p>
-</a>
 
 ### Some of my skills are:
 - Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
