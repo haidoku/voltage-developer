@@ -3,7 +3,7 @@
 
   
   <p align="center">
-    ![](https://komarev.com/ghpvc/?username=joke&label=PROFILE+VIEWS)
+    ![](https://komarev.com/ghpvc/?username=voltage-developer&label=PROFILE+VIEWS)
   </p>
 
 ### Some of my skills are:
