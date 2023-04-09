@@ -18,7 +18,8 @@
 - Game Development
 
 ### Current Projects:
-
+- Battery Squad Tools (DDOS, PW Cracker, Sim-Swap & more)
+- Security Vulnerability Finder
 
 
 ### Skills (As Icons):
