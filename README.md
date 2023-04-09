@@ -22,4 +22,4 @@
 
 
 ### Skills (As Icons):
-![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,tensorflow,discord,bots,go,express,gradle,lua,vim,mysql,py,sqlite,selenium,c,cpp,firebase,git, rust&perline=7)
+![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,tensorflow,discord,bots,go,express,gradle,lua,vim,mysql,py,sqlite,selenium,c,cpp,firebase,git,rust&perline=7)
