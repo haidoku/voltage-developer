@@ -18,8 +18,8 @@
 - Game Development
 
 ### Current Projects:
-- Battery Squad Tools (DDOS, PW Cracker, Sim-Swap & more)
-- Security Vulnerability Finder
+- osu! multiacc tool
+- Extra file properties
 
 
 ### Skills (As Icons):
